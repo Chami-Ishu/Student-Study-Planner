@@ -1,16 +1,66 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌷 StudyMate – Student Study Planner
 
-Currently, two official plugins are available:
+StudyMate is a responsive web application developed to help students organize their academic activities and manage their study schedules efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Dashboard with study statistics
+- Add, edit and delete subjects
+- Create and manage study tasks
+- Set task deadlines and priorities
+- Mark tasks as completed
+- Filter tasks by completion status
+- Create a weekly study timetable
+- Detect overlapping study sessions
+- Track study progress
+- Save data using browser LocalStorage
+- Responsive design for mobile and desktop
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Browser LocalStorage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation and Setup
+
+1. Clone the repository.
+
+   git clone https://github.com/Chami-Ishu/Student-Study-Planner.git
+
+2. Navigate to the project folder.
+
+   cd Student-Study-Planner
+
+3. Install dependencies.
+
+   npm install
+
+4. Start the development server.
+
+   npm run dev
+
+## 📁 Project Structure
+
+src/
+- App.jsx
+- App.css
+- index.css
+- main.jsx
+
+## 💡 Learning Outcomes
+
+This project demonstrates practical knowledge of React components, state management, CRUD operations, form handling, data persistence, filtering and responsive web design.
+
+## 👩‍💻 Developer
+
+Chamishka Ishani
+
+Computer Science Undergraduate  
+NSBM Green University
+
+GitHub: https://github.com/Chami-Ishu
